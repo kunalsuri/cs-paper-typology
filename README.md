@@ -1,4 +1,4 @@
-<img width="1050" height="1050" alt="image" src="https://github.com/user-attachments/assets/01212626-8569-498a-9f03-a5282f74dfea" /># Extended Framework for Paper Typology in Computer Science
+# Extended Framework for Paper Typology in Computer Science
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18755978.svg)](https://doi.org/10.5281/zenodo.18755978) 
 
