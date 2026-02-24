@@ -1,8 +1,10 @@
-# Extended Framework for Paper Typology in Computer Science
+<img width="1050" height="1050" alt="image" src="https://github.com/user-attachments/assets/01212626-8569-498a-9f03-a5282f74dfea" /># Extended Framework for Paper Typology in Computer Science
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18755978.svg)](https://doi.org/10.5281/zenodo.18755978) 
 
 A comprehensive methodological framework designed to help PhD researchers, postdoctoral scientists, and senior practitioners navigate paper typology, novelty gradients, and hybrid contributions in Computer Science.
+
+<br> 
 
 ## 📌 Overview
 
@@ -13,10 +15,22 @@ This repository hosts the **Extended Framework for Paper Typology**, which addre
 2. **Hybrid Contributions:** How to identify, unpack, and successfully publish papers that span multiple canonical types (e.g., System + Methodology, Empirical Study + Conceptual Framework).
 3. **Strategic Type Selection:** A 6-step actionable decision protocol to apply at the point of paper framing, before writing begins.
 
+<br> 
+
 ## 📖 The Framework
 
 The core document is available here:  
 👉 [**CS_Paper_Typology_Extended_Framework.md**](./CS_Paper_Typology_Extended_Framework.md)
+
+<br> 
+
+## 💡 Declaration of AI Usage
+
+* **Coding:** GitHub Copilot / Microsoft GitHub Pro and related LLM-assisted features within Visual Studio Code were used to support the coding of this project, primarily for code generation, completion, and debugging. All AI-generated code was independently reviewed, tested, and refined by the author. The author takes full responsibility for the correctness and integrity of all code in this work.
+
+* **Writing & Ideation:**  Large language model (LLM) tools — specifically (Anthropic Claude and Gemini Google Pro) — were used to assist with brainstorming, structural organization, and language refinement during the writing process. All underlying arguments, intellectual contributions, and conclusions originate with the author. All AI-assisted material was critically reviewed and substantially revised by the author, who takes full responsibility for the accuracy, originality, and integrity of the published content.
+
+<br> 
 
 ## ✍️ How to Cite
 
