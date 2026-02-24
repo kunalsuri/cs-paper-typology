@@ -36,8 +36,12 @@ The core document is available here:
 
 If you use this framework to structure your research, paper framing, or methodology curriculum, please cite it using the following format:
 
+<br> 
+
 **APA Format:**
 > Suri, K. (2026). *Extended Framework for Paper Typology in Computer Science*. GitHub / Zenodo. https://doi.org/10.5281/zenodo.18755978
+
+<br> 
 
 **BibTeX:**
 ```bibtex
@@ -49,3 +53,18 @@ If you use this framework to structure your research, paper framing, or methodol
   doi          = {10.5281/zenodo.18755978},
   url          = {[https://doi.org/10.5281/zenodo.18755978](https://doi.org/10.5281/zenodo.18755978)}
 }
+```
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+**⭐ If you find this work interesting, please consider starring the repository.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
