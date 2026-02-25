@@ -24,14 +24,6 @@ The core document is available here:
 
 <br> 
 
-## 💡 Declaration of AI Usage
-
-* **Coding:** GitHub Copilot / Microsoft GitHub Pro and related LLM-assisted features within Visual Studio Code were used to support the coding of this project, primarily for code generation, completion, and debugging. All AI-generated code was independently reviewed, tested, and refined by the author. The author takes full responsibility for the correctness and integrity of all code in this work.
-
-* **Writing & Ideation:**  Large language model (LLM) tools — specifically (Anthropic Claude and Gemini Google Pro) — were used to assist with brainstorming, structural organization, and language refinement during the writing process. All underlying arguments, intellectual contributions, and conclusions originate with the author. All AI-assisted material was critically reviewed and substantially revised by the author, who takes full responsibility for the accuracy, originality, and integrity of the published content.
-
-<br> 
-
 ## ✍️ How to Cite
 
 If you use this framework to structure your research, paper framing, or methodology curriculum, please cite it using the following format:
@@ -54,6 +46,14 @@ If you use this framework to structure your research, paper framing, or methodol
   url          = {[https://doi.org/10.5281/zenodo.18755978](https://doi.org/10.5281/zenodo.18755978)}
 }
 ```
+
+<br> 
+
+## 💡 Declaration of AI Usage
+
+* **Coding:** GitHub Copilot / Microsoft GitHub Pro and related LLM-assisted features within Visual Studio Code were used to support the coding of this project, primarily for code generation, completion, and debugging. All AI-generated code was independently reviewed, tested, and refined by the author. The author takes full responsibility for the correctness and integrity of all code in this work.
+
+* **Writing & Ideation:**  Large language model (LLM) tools — specifically (Anthropic Claude and Gemini Google Pro) — were used to assist with brainstorming, structural organization, and language refinement during the writing process. All underlying arguments, intellectual contributions, and conclusions originate with the author. All AI-assisted material was critically reviewed and substantially revised by the author, who takes full responsibility for the accuracy, originality, and integrity of the published content.
 
 <br/>
 
