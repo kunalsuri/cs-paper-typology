@@ -51,9 +51,9 @@ If you use this framework to structure your research, paper framing, or methodol
 
 ## 💡 Declaration of AI Usage
 
-* **Coding:** GitHub Copilot / Microsoft GitHub Pro and related LLM-assisted features within Visual Studio Code were used to support the coding of this project, primarily for code generation, completion, and debugging. All AI-generated code was independently reviewed, tested, and refined by the author. The author takes full responsibility for the correctness and integrity of all code in this work.
+* **Coding:** GitHub Copilot / Microsoft GitHub Pro and related LLM-assisted features within Visual Studio Code were used to support the coding of this project, primarily for code generation, completion, and debugging. All AI-generated code was independently reviewed, tested, and refined by the author(s). The author(s) takes full responsibility for the correctness and integrity of all code in this work.
 
-* **Writing & Ideation:**  Large language model (LLM) tools — specifically (Anthropic Claude and Gemini Google Pro) — were used to assist with brainstorming, structural organization, and language refinement during the writing process. All underlying arguments, intellectual contributions, and conclusions originate with the author. All AI-assisted material was critically reviewed and substantially revised by the author, who takes full responsibility for the accuracy, originality, and integrity of the published content.
+* **Writing & Ideation:**  Large language model (LLM) tools — specifically (Anthropic (Claude) and Google (Gemini Pro), Mistral AI) — were used to assist with brainstorming, structural organization, and language refinement during the writing process. All underlying arguments, intellectual contributions, and conclusions originate with the author(s). All AI-assisted material was critically reviewed and substantially revised by the author(s), who takes full responsibility for the accuracy, originality, and integrity of the published content.
 
 <br/>
 
